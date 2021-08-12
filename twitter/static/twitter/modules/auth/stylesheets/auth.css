@@ -1,0 +1,41 @@
+.auth-form {
+    width: 90vw;
+    max-width: 45rem;
+    padding: 2.4rem;
+    border: 2px solid var(--gray-2);
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+header {
+    margin-bottom: 2.4rem;
+}
+
+h1 {
+    font-size: 1.8rem;
+}
+
+.auth-form-field {
+    margin: 1.2rem 0;
+}
+
+footer {
+    margin-top: 2.4rem;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 0.8rem;
+}
+
+footer a {
+    color: var(--primary-color);
+}
+
+.error {
+    color: var(--danger-color);
+}
+
+.form-error {
+    text-align: center;
+}
